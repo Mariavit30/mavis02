@@ -1,12 +1,15 @@
 .banner{
 width: 1005px;
 height: 650px;
-background: url(....);
+background: url(../imag.praia.01.jpg);
 background-size: 100;
 background-position-x:center ;
 background-repeat: no-repeat;
 }
 
+.margin{
+    margin-bottom: ;
+}
 
 
 
