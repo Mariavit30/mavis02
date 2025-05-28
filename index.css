@@ -22,3 +22,20 @@ background-repeat: no-repeat;
     width: 100%;
 }
 
+.link-cofig a{
+    font-weight: bold;
+    background-color: darkgreen;
+    color: white;
+    padding:7px;
+    border-radius:3px;
+}
+.link-cofig a:hover{
+    color: red;
+    background-color: lime;
+}
+ 
+.esp.botton{
+   border: 1px solid gray;
+   box
+    margin-bottom: 20px;
+}
