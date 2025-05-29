@@ -35,7 +35,14 @@ background-repeat: no-repeat;
 }
  
 .esp.botton{
-   border: 1px solid gray;
-   box
     margin-bottom: 20px;
 }
+@media screen and (min-width: 11250px) {
+  body {
+    background-color: lightgreen;
+  }
+  .banner{
+    height: 200px;
+  }
+}
+1
